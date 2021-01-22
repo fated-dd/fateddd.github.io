@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<!-- head is for metadata -->
+<title>My page</title>
+</head>
+
+<body>
+<!-- body is for content -->
+
+Hello World!
+
+</body>
+</html>
